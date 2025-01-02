@@ -1,0 +1,1 @@
+890742608055.dkr.ecr.ap-south-1.amazonaws.com/chatbotmedical
